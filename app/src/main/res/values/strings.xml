@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sicredi Digital</string>
+    <string name="loading">Aguarde...</string>
+    <string name="ok">Ok</string>
+    <string name="price">Preço</string>
+    <string name="date">Data:</string>
+    <string name="address">Endereço:</string>
+    <string name="open_maps">Ver Endereço</string>
+    <string name="people">Participantes:</string>
+    <string name="share_using">Compartilhar</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="checkin">Checkin</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dialog_title">Check in</string>
+    <string name="dialog_text">Preencha as informações abaixo</string>
+    <string name="required_fields">Por favor, preencha todos os valores.</string>
+    <string name="invalid_email">Por favor, preencha um email válido.</string>
+    <string name="checkin_success">Checkin realizado com sucesso!</string>
+    <string name="atention">Atenção!</string>
+    <string name="no_internet">Sem coneção com a internet.</string>
+    <string name="try_again">Tentar Novamente</string>
+</resources>
